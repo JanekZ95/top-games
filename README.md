@@ -2,6 +2,8 @@
 
 HTML and CSS skills.
 
-Download, unpack and try out.
+Visit: 
+
+https://janekz95.github.io/top-games/
 
 Enjoy!
